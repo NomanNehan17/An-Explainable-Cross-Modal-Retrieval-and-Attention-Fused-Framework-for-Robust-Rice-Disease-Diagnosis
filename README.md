@@ -1,3 +1,4 @@
+
 # An Explainable Cross-Modal Retrieval and Attention-Fused Framework for Robust Rice Disease Diagnosis
 
 ## Author Information
@@ -47,6 +48,7 @@ The dataset used in this study is publicly available on Google Drive:
 
 **Google Drive:**  
 https://drive.google.com/drive/folders/1XnJim7tRYlsAemlKQIAwtoFhdTF0R5Jw?usp=sharing
+https://drive.google.com/file/d/1nLaJaWuaP0pKJUp6UVfcK_hKRT5Oa088/view?usp=drive_link
 
 
 ## Abstract

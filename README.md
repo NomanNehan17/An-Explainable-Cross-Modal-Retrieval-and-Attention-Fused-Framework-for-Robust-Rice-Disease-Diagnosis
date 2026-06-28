@@ -1,4 +1,4 @@
-## An Explainable Cross-Modal Retrieval and Attention-Fused Framework for Robust Rice Disease Diagnosis
+# An Explainable Cross-Modal Retrieval and Attention-Fused Framework for Robust Rice Disease Diagnosis
 
 ## Author Information
 
